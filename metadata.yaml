@@ -1,5 +1,5 @@
 _repo: Shibusawa-or-The-passing-of-old-Japan_60367
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Stevens, Dalton
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1939
     gutenberg_agent_id: '44288'
     url: http://www.gutenberg.org/2009/agents/44288
+covers:
+- cover_type: archival
+  image_path: 60367-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Adams, I. William
     gutenberg_agent_id: '50926'
     url: http://www.gutenberg.org/2009/agents/50926
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60367#Shibusawa-or-The-passing-of-old-Japan
 gutenberg_issued: '2019-09-27'
 gutenberg_type: Text
 identifiers:
